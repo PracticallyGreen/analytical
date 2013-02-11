@@ -40,7 +40,7 @@ Add a configuration file (config/analytical.yml) to declare your API keys, like 
    development:
    test:
 
-You can add different configurations for different environments. 
+You can add different configurations for different environments.
 
 By default, all the declared analytics modules are loaded. You can override this behavior in the controller.
 
@@ -151,6 +151,7 @@ These fine folks have contributed patches and new features to this project:
 * {Kurt Werle}[http://github.com/kwerle]
 * {Olivier Lauzon}[http://github.com/olauzon]
 * {Chris Ricca}[https://github.com/ChrisRicca]
+* {Rajiv Aaron Manglani}[https://github.com/rajiv]
 
 Thanks guys!
 
